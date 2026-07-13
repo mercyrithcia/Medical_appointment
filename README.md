@@ -129,7 +129,7 @@ Performance
 Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/Medical_appointment.git
+git clone https://github.com/mercyrithcia/Medical_appointment.git
 ```
 
 Install dependencies
